@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/heat"
+            android:title="热量"/>
+        <item
+            android:id="@+id/protein"
+            android:title="蛋白质"/>
+        <item
+            android:id="@+id/fat"
+            android:title="脂肪"/>
+        <item
+            android:id="@+id/vitaminC"
+            android:title="维他命C"/>
+        <item
+            android:id="@+id/vitaminE"
+            android:title="维他命E"/>
+        <item
+            android:id="@+id/vitaminB1"
+            android:title="维他命B1"/>
+        <item
+            android:id="@+id/vitaminB2"
+            android:title="维他命B2"/>
+        <item
+            android:id="@+id/Fe"
+            android:title="铁"/>
+        <item
+            android:id="@+id/Zn"
+            android:title="锌"/>
+        <item
+            android:id="@+id/Se"
+            android:title="硒"/>
+    </group>
+</menu>
